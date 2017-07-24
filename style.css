@@ -1,0 +1,87 @@
+
+.center {
+	text-align: center;
+}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.green {
+	color: green;
+}
+
+.big {
+	font-size: 40px;
+}
+
+.tiny {
+	font-size:10px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.font{
+	font-family: cursive;
+}
+
+.multi{
+	color: orange; 
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.styledFont{
+	color: green;
+}
+
+img {
+	border-style: solid;
+	border-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>

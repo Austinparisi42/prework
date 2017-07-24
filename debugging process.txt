@@ -1,0 +1,15 @@
+Here's a brief description of how I approached debugging the broken code. 
+-I pulled up both sets of code and briefly glanced over both to see what I was dealing with and to hopefully catch any obvious mistakes.
+-I looked at how both websites functioned and made a mental note of each broken part of the dog site.
+-After getting an understanding of how the code was broken up into sections, I started picking apart each section individually.
+-I started with the css and js files to make sure they functioned identically.
+-Then focused on each individual section of the html document with both sets of code side by side. This seemed pretty straightforward. I found the section of code related to the part of the website that wasn't working correctly and changed anything that didn't look like the working code. This took about 1.5 hr.
+	-The title wasn't in the right lettering
+	-I deleted the instruction section
+	-Broke the about section into paragraphs
+	-Image wasn't linked right
+	-Facts werent divded up into individual facts
+	-Grow and shrink weren't working
+	-Colors were on wrong buttons
+-Much of this was fixed by changing src="errors.js" to logic.js
+	

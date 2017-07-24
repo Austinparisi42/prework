@@ -1,0 +1,10 @@
+1. JQuery - Simplifies client side HTML. Makes navigating a document easier.
+2. PHP - Server side language. Web developement and general purpose programming language.
+3. JavaScript - One of core technologies used in WWW content creation. Also used outside of web in PDF documents and widgets.
+4. GIT - Tracks changes in files and coordinates work on files among multiple people. Free software. Source code management .
+5. Github - Web based git. Offers same functionality plus moe features. Has private and free repositories. Largest host of source code.
+6. SQL - Structured Query Language. Manages data in relational database management systems.
+7. Bootstrap - Front end web framework for designing websites and applications. HTML and CSS based templates.
+8. Node.js - Builds scalable network applications
+9. C# - Language based on Java and C++. For Windows OS.
+10. Source Code - Any collection of computer instructions to facilitate work of programmers.
